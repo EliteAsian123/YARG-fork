@@ -5,7 +5,8 @@
         "ListDelimiter": {
             "Default": ", ",
             "Last": ", and "
-        }
+        },
+        "Test": "Test value!"
     },
     "Enum": {
         "Difficulty": {
